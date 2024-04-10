@@ -1,0 +1,14 @@
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\bin\Debug\net8.0\save_my_buttcrack.exe
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\bin\Debug\net8.0\save_my_buttcrack.deps.json
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\bin\Debug\net8.0\save_my_buttcrack.runtimeconfig.json
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\bin\Debug\net8.0\save_my_buttcrack.dll
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\bin\Debug\net8.0\save_my_buttcrack.pdb
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\save_my_buttcrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\save_my_buttcrack.AssemblyInfoInputs.cache
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\save_my_buttcrack.AssemblyInfo.cs
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\save_my_buttcrack.csproj.CoreCompileInputs.cache
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\save_my_buttcrack.dll
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\refint\save_my_buttcrack.dll
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\save_my_buttcrack.pdb
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\save_my_buttcrack.genruntimeconfig.cache
+C:\Users\SSD2\Desktop\t.i\c#\programas\save_my_buttcrack\obj\Debug\net8.0\ref\save_my_buttcrack.dll
