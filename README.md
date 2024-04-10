@@ -17,12 +17,7 @@
 ## Contribuindo
 Contribuições são bem-vindas! Se você tem ideias de como melhorar a ferramenta ou encontrar bugs, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request".
 
-## Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Agradecimentos
 Agradecemos por utilizar `save_my_buttcrack`! Esperamos que essa ferramenta ajude você a administrar suas finanças de forma mais eficaz e tranquila.
 
 ---
-
-*Nota: Este é um projeto fictício desenvolvido apenas para fins de demonstração e aprendizado.*
